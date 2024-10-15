@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFTP3", "SFTP3\SFTP3.csproj", "{F09DE1DF-012D-4FB4-8E61-6DD4B7700B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09DE1DF-012D-4FB4-8E61-6DD4B7700B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09DE1DF-012D-4FB4-8E61-6DD4B7700B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09DE1DF-012D-4FB4-8E61-6DD4B7700B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09DE1DF-012D-4FB4-8E61-6DD4B7700B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F226830-2658-4308-A933-BFE3F9539123}
+	EndGlobalSection
+EndGlobal
